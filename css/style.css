@@ -52,12 +52,14 @@
 }
 .navWrap .logo{
 	float: left;
+	/*overflow: hidden;*/
+
 }
 .navWrap .logo a img{
-	width: 94px;
-	height: 80px;
-	margin-top: 23px;
-	margin-left: 200px;
+	width: 75px;
+	height: 64px;
+	margin-top: 28px;
+	margin-left: 248px;
 }
 .navWrap .nav_bar{
 	float:right;
